@@ -7,5 +7,5 @@ WordPress vs. Kali
    - Type of vulnerability: Cross Site Scripting
    - Fixed in version 4.2.1
    - Tested in version 4.2
-- [ ] GIF Walkthrough: ![](file:///Users/martinrocha/Documents/XSS-1.gif)
+- [ ] GIF Walkthrough:![](file:///Users/martinrocha/Documents/XSS-1.gif)
 <img src="file:///Users/martinrocha/Documents/XSS-1.gif" width="800">
