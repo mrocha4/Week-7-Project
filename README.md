@@ -9,3 +9,4 @@ WordPress vs. Kali
    - Tested in version 4.2
 - [ ] GIF Walkthrough: file:///Users/martinrocha/Documents/XSS-1.gif
 ![](file:///Users/martinrocha/Documents/XSS-1.gif)
+<img src="file:///Users/martinrocha/Documents/XSS-1.gif" width="800">
