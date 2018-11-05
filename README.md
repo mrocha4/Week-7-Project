@@ -8,4 +8,4 @@ WordPress vs. Kali
    - Fixed in version 4.2.1
    - Tested in version 4.2
 - [ ] GIF Walkthrough:
-![](file:///Users/martinrocha/Documents/XSS-1.gif)
+![](file:///Users/martinrocha/Documents/XSS-1.lcf)
